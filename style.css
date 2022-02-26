@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(145, 188, 238);
+}
+
+.heading{
+    background-color: gold;
+    width: 500px;
+    font-size: 25px;
+}
